@@ -7,7 +7,7 @@ Find the project requirements here: [Temperature converter website](https://www.
 Built with HTML, CSS & JavaScript
 
 ## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
+[![Temperature Converter](https://raw.githubusercontent.com/CodeWithhamza1/tempreture_converter_for_codementor/main/working.PNG)](https://raw.githubusercontent.com/CodeWithhamza1/tempreture_converter_for_codementor/main/working.PNG)
 
 ## Installation
 Instructions for other developers on how to install and run your code on their local environment.
